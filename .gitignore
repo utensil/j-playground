@@ -1,0 +1,6 @@
+/.idea
+/target/classes/
+/target/site/
+/target/*.xml
+/target/javadoc-bundle-options
+/netty-playground.iml
