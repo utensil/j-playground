@@ -1,0 +1,6 @@
+${project.groupId}:${project.artifactId}:${project.version} CHANGELOG
+========================================================================
+
+ ${project.basedir}
+
+ #include("../../../CHANGELOG.md")
