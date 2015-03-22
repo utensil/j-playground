@@ -3,12 +3,12 @@
 <modelVersion>4.0.0</modelVersion>
 
 <groupId>com.utensil</groupId>
-<artifactId>netty-playground</artifactId>
+<artifactId>j-playground</artifactId>
 <version>0.0.1-SNAPSHOT</version>
 <packaging>jar</packaging>
 
-<name>netty-playground</name>
-<url>http://maven.apache.org</url>
+<name>j-playground</name>
+<url>https://github.com/utensil/j-playground</url>
 
 <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
